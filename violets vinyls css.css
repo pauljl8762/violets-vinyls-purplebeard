@@ -1,0 +1,43 @@
+/* Write your CSS here - remember to add Id's or classes to the HTML file */
+
+* {
+    color: white;
+    font-family: 'Segoe UI', Verdana, Tahoma, Geneva, sans-serif;
+    padding: auto;
+  }
+  body{ 
+    background-color: black;
+}
+header {
+    background-image: url(./img/Records.jpg); background-position: center;
+    background-repeat: no-repeat;
+  }
+  h1 {
+
+    font-size: 100px;
+    text-decoration: solid;
+      text-align: center;
+  }
+  .selection { 
+    font-size: 25px;
+    text-decoration: solid;
+    text-align: center;
+    background-color: #ef8354;
+  }
+  span {
+    font-weight: bold;
+  }
+.selling {
+    background-color: #ef8354;
+    text-align: center;
+}
+.live{
+    background-color: #9c538b;
+    text-align: center;
+}
+a {
+    color: #ef8354;
+}
+a:link {
+color: #9c538b;
+}
